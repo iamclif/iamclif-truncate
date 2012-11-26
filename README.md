@@ -1,4 +1,4 @@
 iamclif-truncate
 ================
 
-Truncate last name to just the first letter
+Find the first letter in the last name and truncate the rest.
